@@ -152,7 +152,7 @@
   <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_r8WskyxVEei_vJV_CmiF1g" diagramKindId="org.eclipse.papyrus.sysml14.diagram.blockdefinition">
     <owner xmi:type="uml:Model" href="SysMLtest.uml#_rFt_gCxVEei_vJV_CmiF1g"/>
   </styles>
-  <element xmi:type="uml:Model" href="SysMLtest.uml#_rFt_gCxVEei_vJV_CmiF1g"/>
+  <element xmi:type="uml:Package" href="SysMLtest.uml#_Lgo08D8pEeiqu41dRSghNA"/>
   <edges xmi:type="notation:Connector" xmi:id="_x1kisSxVEei_vJV_CmiF1g" type="StereotypeCommentLink" source="_xy63UCxVEei_vJV_CmiF1g" target="_x1j7oCxVEei_vJV_CmiF1g">
     <styles xmi:type="notation:FontStyle" xmi:id="_x1kisixVEei_vJV_CmiF1g"/>
     <styles xmi:type="notation:EObjectValueStyle" xmi:id="_x1lJwixVEei_vJV_CmiF1g" name="BASE_ELEMENT">
