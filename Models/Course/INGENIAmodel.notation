@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:css="http://www.eclipse.org/papyrus/infra/gmfdiag/css" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <notation:Diagram xmi:id="_qXwUQD9DEeirIoC6ZO03Wg" type="PapyrusUMLClassDiagram" name="INGENIA Packages" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_rYTLQD9DEeirIoC6ZO03Wg" type="Package_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_rYVAcD9DEeirIoC6ZO03Wg" type="Package_NameLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_rYVAcT9DEeirIoC6ZO03Wg" type="Package_PackagedElementCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_rYVAcj9DEeirIoC6ZO03Wg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rYVAcz9DEeirIoC6ZO03Wg"/>
+      </children>
+      <element xmi:type="uml:Package" href="INGENIAmodel.uml#_rYL2gD9DEeirIoC6ZO03Wg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rYTLQT9DEeirIoC6ZO03Wg" x="60" y="180" width="181" height="121"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_s6qV4D9DEeirIoC6ZO03Wg" type="Package_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_s6qV4j9DEeirIoC6ZO03Wg" type="Package_NameLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_s6qV4z9DEeirIoC6ZO03Wg" type="Package_PackagedElementCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_s6qV5D9DEeirIoC6ZO03Wg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_s6qV5T9DEeirIoC6ZO03Wg"/>
+      </children>
+      <element xmi:type="uml:Package" href="INGENIAmodel.uml#_s6ogsD9DEeirIoC6ZO03Wg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_s6qV4T9DEeirIoC6ZO03Wg" x="60" y="340" width="181" height="121"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_uF-ScD9DEeirIoC6ZO03Wg" type="Package_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_uF-Scj9DEeirIoC6ZO03Wg" type="Package_NameLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_uF-5gD9DEeirIoC6ZO03Wg" type="Package_PackagedElementCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_uF-5gT9DEeirIoC6ZO03Wg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uF-5gj9DEeirIoC6ZO03Wg"/>
+      </children>
+      <element xmi:type="uml:Package" href="INGENIAmodel.uml#_uF9EUD9DEeirIoC6ZO03Wg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uF-ScT9DEeirIoC6ZO03Wg" x="280" y="180" width="181" height="121"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_vX9ewD9DEeirIoC6ZO03Wg" type="Package_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_vX9ewj9DEeirIoC6ZO03Wg" type="Package_NameLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_vX9ewz9DEeirIoC6ZO03Wg" type="Package_PackagedElementCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_vX9exD9DEeirIoC6ZO03Wg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vX9exT9DEeirIoC6ZO03Wg"/>
+      </children>
+      <element xmi:type="uml:Package" href="INGENIAmodel.uml#_vX7pkD9DEeirIoC6ZO03Wg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vX9ewT9DEeirIoC6ZO03Wg" x="280" y="340" width="181" height="121"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_abJRID9EEeirIoC6ZO03Wg" type="Package_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_abJRIj9EEeirIoC6ZO03Wg" type="Package_NameLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_abJRIz9EEeirIoC6ZO03Wg" type="Package_PackagedElementCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_abJRJD9EEeirIoC6ZO03Wg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_abJRJT9EEeirIoC6ZO03Wg"/>
+      </children>
+      <element xmi:type="uml:Package" href="INGENIAmodel.uml#_abIDAD9EEeirIoC6ZO03Wg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_abJRIT9EEeirIoC6ZO03Wg" x="60" y="20" width="181" height="121"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_nrUGsD9EEeirIoC6ZO03Wg" type="Comment_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_nrUGsj9EEeirIoC6ZO03Wg" type="Comment_BodyLabel"/>
+      <element xmi:type="uml:Comment" href="INGENIAmodel.uml#_lTQqMD9EEeirIoC6ZO03Wg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nrUGsT9EEeirIoC6ZO03Wg" x="280" y="40"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_qXwUQT9DEeirIoC6ZO03Wg" name="diagram_compatibility_version" stringValue="1.3.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_qXwUQj9DEeirIoC6ZO03Wg"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_qXwUQz9DEeirIoC6ZO03Wg" diagramKindId="org.eclipse.papyrus.sysml14.diagram.package">
+      <owner xmi:type="uml:Model" href="INGENIAmodel.uml#_gqjPID9DEeirIoC6ZO03Wg"/>
+    </styles>
+    <element xmi:type="uml:Model" href="INGENIAmodel.uml#_gqjPID9DEeirIoC6ZO03Wg"/>
+  </notation:Diagram>
+  <css:ModelStyleSheets xmi:id="_p3cKkD9FEeirIoC6ZO03Wg">
+    <stylesheets xmi:type="css:StyleSheetReference" xmi:id="_p3cxoD9FEeirIoC6ZO03Wg" path="/INGENIA/Models/Course/StyleSheet.css"/>
+  </css:ModelStyleSheets>
+</xmi:XMI>

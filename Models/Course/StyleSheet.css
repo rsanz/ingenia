@@ -1,0 +1,32 @@
+* {
+    shadow:false;
+    font: Monaco;
+}
+
+Class {
+    gradient: white vertical;
+    elementIcon:false;
+}
+
+[appliedStereotypes~="Block"]{
+    bold:true;
+	lineWidth:2px;
+}
+
+Class {
+	fontHeight:12;
+	fillColor:#C3D7DD;
+	transparency:0;
+	gradient:#FFFFFF vertical;
+	lineColor:#000000;
+	lineWidth:2
+}
+
+Package {
+	fontHeight:12;
+	fillColor:#DDD7C3;  /* Beige */
+	transparency:0;
+ 	gradient:#FFFFFF vertical;
+	lineColor:#000000;
+}
+
