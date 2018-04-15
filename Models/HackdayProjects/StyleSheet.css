@@ -1,0 +1,38 @@
+* {
+    shadow:false;
+    font: Monaco;
+	fontHeight:10;
+}
+ 
+
+[appliedStereotypes~="Block"]{
+    bold:true;
+	lineWidth:2px;
+}
+
+Class {
+    bold:true;
+	lineWidth:2;
+	fillColor:#DDD7C3;
+	transparency:0;
+ 	gradient:#FFFFFF vertical;
+	lineColor:#000000;
+	elementIcon:false;
+}
+
+Package {
+    bold:true;
+	lineWidth:2;
+	fillColor:#DDD7C3;  
+ 	gradient:#FFFFFF vertical;
+}
+
+Comment {
+	fillColor:#FFFFAA; 
+}
+
+Actor {
+	fillColor:#FFFFFF; 
+}
+
+
