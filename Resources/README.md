@@ -11,7 +11,7 @@ These are resources of relevance for the INGENIA SE course.
 
 [The V-REP simulator](http://www.coppeliarobotics.com/)
 
-[The Sphynx Simulator](]http://developer.parrot.com/docs/sphinx/)
+[The Sphynx Simulator](http://developer.parrot.com/docs/sphinx/)
 
 ---------
 (C) 2018 rsanz.com
